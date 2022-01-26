@@ -6,7 +6,7 @@ Crear un repositorio en GitHub para realizar la entrega que incluya:
 ● Diagrama de entidad relación.
 ● Script de SQL.
 
-For ONLY EDUCATIONAL PURPOSE Mercado Liebre, DH. is an Argentine company headquartered in Buenos Aires, that operates online marketplaces dedicated to e-commerce.
+For ONLY EDUCATIONAL PURPOSE Mercado Liebre, DH. is an Argentine company headquartered in Buenos Aires.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 GITHUB
